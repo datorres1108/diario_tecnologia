@@ -8,15 +8,15 @@
 
 body {
   font-family: Calibri, Arial, Helvetica, sans-serif;
-  border: solid blue 1px;
+  border: solid red 1px;
   margin: 1px;
-  padding: 5px;
+  padding: 3px;
 }
 
 .contenedor {
   border: solid red 1px;
   margin: 1px;
-  padding: 10px;
+  padding: 5px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -137,6 +137,20 @@ body {
 }
 
 .main .articulos {
+  border: solid black 1px;
+  border-radius: 4px;
+  margin: 1px;
+  padding: 5px;
+}
+
+.main .aside {
+  border: solid black 1px;
+  border-radius: 4px;
+  margin: 1px;
+  padding: 5px;
+}
+
+.main .publicidad {
   border: solid black 1px;
   border-radius: 4px;
   margin: 1px;

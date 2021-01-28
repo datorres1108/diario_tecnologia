@@ -6,19 +6,20 @@
 }
 body{
     font-family: Calibri, Arial, Helvetica, sans-serif;
-    border: solid blue 1px; //Ayudas visuales para la maquetacion (Quitar esto despues)
+    border: solid red 1px; //Ayudas visuales para la maquetacion (Quitar esto despues)
     margin: 1px;
-    padding: 5px;
+    padding: 3px;
 
 }  
 
 .contenedor{
     border: solid red 1px; //Ayudas visuales para la maquetacion (Quitar esto despues)
     margin: 1px;
-    padding: 10px;
+    padding: 5px;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
+
 
 }
 // //parametros responsive
