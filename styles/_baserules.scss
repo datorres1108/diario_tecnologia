@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    border: solid blue 1px; //Ayudas visuales para la maquetacion (Quitar esto despues)
+    margin: 1px;
+    padding: 5px;
+
+}  
+
+.contenedor{
+    border: solid red 1px; //Ayudas visuales para la maquetacion (Quitar esto despues)
+    margin: 1px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+}
+// //parametros responsive
+// @media screen and (max-width: 768px){
+
+// }
